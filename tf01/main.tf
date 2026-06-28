@@ -5,4 +5,3 @@ resource "null_resource" "r1_4" {}
 resource "null_resource" "r1_5" {}
 resource "null_resource" "r1_6" {}
 resource "null_resource" "r1_7" {}
-resource "null_resource" "r1_8" {}
